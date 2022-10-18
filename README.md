@@ -11,3 +11,10 @@ Genes and geography -- a bioinformatics project
 https://www.youtube.com/watch?v=-PCKK_nwFdA
 
 https://github.com/MariaNattestad/pca-on-genotypes
+
+
+ONLINE TUTORIAL
+
+Human genetic variation
+
+https://www.ebi.ac.uk/training/online/courses/human-genetic-variation-exploring-publicly-available-data/
