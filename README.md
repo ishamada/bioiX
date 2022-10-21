@@ -1,4 +1,5 @@
 # bioix
+Genes and geography -- a Bioinformatics project
 
 
 A Quick Guide to Organizing Computational Biology Projects
@@ -6,15 +7,25 @@ A Quick Guide to Organizing Computational Biology Projects
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
 
 
-Genes and geography -- a bioinformatics project
+========
 
-https://www.youtube.com/watch?v=-PCKK_nwFdA
+TUTORIALS:
 
-https://github.com/MariaNattestad/pca-on-genotypes
+========
+
+  Videos:
+  
+  https://www.youtube.com/watch?v=-PCKK_nwFdA
+  
+  Code:
+  
+  https://github.com/MariaNattestad/pca-on-genotypes
+
+  Human genetic variation
+
+  https://www.ebi.ac.uk/training/online/courses/human-genetic-variation-exploring-publicly-available-data/
 
 
-ONLINE TUTORIAL
+CLOUD:
 
-Human genetic variation
-
-https://www.ebi.ac.uk/training/online/courses/human-genetic-variation-exploring-publicly-available-data/
+  https://saturncloud.io/
