@@ -1,5 +1,4 @@
-# bioix
-Genes and geography -- a Bioinformatics project
+# Genes and geography -- a Bioinformatics project
 
 
 A Quick Guide to Organizing Computational Biology Projects
