@@ -1,4 +1,4 @@
-# Genes and geography -- a Bioinformatics project
+# Genes and Geography -- a Bioinformatics Project
 
 
 A Quick Guide to Organizing Computational Biology Projects
@@ -25,7 +25,6 @@ TUTORIALS:
   Human genetic variation & VCF
 
   https://www.ebi.ac.uk/training/online/courses/human-genetic-variation-exploring-publicly-available-data/
-
 
 CLOUD:
 
