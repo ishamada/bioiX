@@ -12,15 +12,17 @@ TUTORIALS:
 
 ========
 
-  Videos:
+  Dr. Maria video:
   
   https://www.youtube.com/watch?v=-PCKK_nwFdA
   
   Code:
   
   https://github.com/MariaNattestad/pca-on-genotypes/blob/main/vcf_to_matrix.py
+  
+  
 
-  Human genetic variation
+  Human genetic variation & VCF
 
   https://www.ebi.ac.uk/training/online/courses/human-genetic-variation-exploring-publicly-available-data/
 
