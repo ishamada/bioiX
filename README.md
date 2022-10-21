@@ -18,7 +18,7 @@ TUTORIALS:
   
   Code:
   
-  https://github.com/MariaNattestad/pca-on-genotypes
+  https://github.com/MariaNattestad/pca-on-genotypes/blob/main/vcf_to_matrix.py
 
   Human genetic variation
 
