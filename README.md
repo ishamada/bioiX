@@ -19,8 +19,9 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
   
 ###  Human Genetic Variation & VCF:
 
-  https://www.ebi.ac.uk/training/online/courses/human-genetic-variation-exploring-publicly-available-data/
-  
+https://www.ebi.ac.uk/training/online/courses/human-genetic-variation-introduction/
+
+
 ### PCA :
   
   https://www.youtube.com/watch?v=HMOI_lkzW08
