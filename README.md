@@ -12,7 +12,12 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
   
   https://www.youtube.com/watch?v=-PCKK_nwFdA
   
-###  Code:
+###  Dr. Maria Repo:
+
+https://github.com/MariaNattestad/pca-on-genotypes
+
+  
+###  Python Code:
   
   https://github.com/MariaNattestad/pca-on-genotypes/blob/main/vcf_to_matrix.py
   
