@@ -1,5 +1,6 @@
 # Genes and Geography -- a Bioinformatics Project
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 A Quick Guide to Organizing Computational Biology Projects
 
