@@ -27,6 +27,7 @@ https://github.com/MariaNattestad/pca-on-genotypes
 
 https://www.ebi.ac.uk/training/online/courses/human-genetic-variation-introduction/
 
+https://www.ebi.ac.uk/training/materials/exploringhumangeneticvariationmaterials/
 
 ### PCA :
   
