@@ -18,7 +18,6 @@ with VariantFile(vcf_filename) as vcf_reader:
             samples = [sample for sample in record.samples]
             genotypes.append(alleles)
             variant_ids.append(record.id)
-         
             if counter % 4943 == 0:
             print(counter)
             print(f'{round(100 * counter / 494328)}%')
@@ -32,14 +31,14 @@ with open(panel_filename) as panel_file:
         labels[line[0]] = line[1]
 
 
-print(variant_ids)
+# print(variant_ids)
 genotypes = np.array(genotypes)
-print(genotypes.shape)
+# print(genotypes.shape)
 
 matrix = np.count_nonzero(genotypes, axis=2)
 
 matrix = matrix.T
-print(matrix.shape)
+# print(matrix.shape)
 
 pca = decomposition.PCA(n_components=2)
 pca.fit(matrix)
