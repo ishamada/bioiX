@@ -29,3 +29,13 @@ with open(panel_filename) as panel_file:
     labels = {}  # {sample_id: population_code}
     for line in panel_file:
         line = line.strip().split('\t')
+        labels[line[0]] = line[1]
+
+
+print(variant_ids)
+genotypes = np.array(genotypes)
+print(genotypes.shape)
+
+matrix = np.count_nonzero(genotypes, axis=2)
+
+matrix = matrix.T
