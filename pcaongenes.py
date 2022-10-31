@@ -8,3 +8,21 @@ panel_filename = "phase1_integrated_calls.20101123.ALL.panel"
 
 genotypes = []
 samples = []
+
+
+
+
+
+
+
+
+if counter % 4943 == 0:
+            print(counter)
+            print(f'{round(100 * counter / 494328)}%')
+        # if counter >= 10000:
+        #     break
+
+with open(panel_filename) as panel_file:
+    labels = {}  # {sample_id: population_code}
+    for line in panel_file:
+        line = line.strip().split('\t')
