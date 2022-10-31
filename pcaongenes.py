@@ -39,3 +39,14 @@ print(genotypes.shape)
 matrix = np.count_nonzero(genotypes, axis=2)
 
 matrix = matrix.T
+print(matrix.shape)
+
+pca = decomposition.PCA(n_components=2)
+pca.fit(matrix)
+print(pca.singular_values_)
+to_plot = pca.transform(matrix)
+print(to_plot.shape)
+
+df = pd.DataFrame(matrix, columns=variant_ids, index=samples)
+df['Population code'] = df.index.map(labels)
+df.to_csv("matrix.csv")
